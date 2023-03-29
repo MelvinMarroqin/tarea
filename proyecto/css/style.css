@@ -1,0 +1,51 @@
+#tabla1
+{
+    width: 50%;
+    border-color: red aqua;
+    border-width: 1em;
+    text-align: center;
+}
+#tabla2
+{
+    width: 50%;
+    border-color: yellow aquamarine;
+    border-width: 1em;
+    text-align: center;
+}
+.img1a
+{
+    width: 150px;
+    height: 250px;
+    border-radius: 2em;
+    border-style: dashed;
+    color: rgba(228, 73, 46, 0.726);
+}
+.img1b
+{
+    width: 150px;
+    height: 250px;
+    border-radius: 2em;
+    border-style: dashed;
+    color: rgba(228, 73, 46, 0.726);
+}
+.imgc
+{
+    width: 95%;
+    border-radius: 2em;
+    border-style: dashed;
+    color: rgba(228, 73, 46, 0.726);
+}
+.table-wrapper
+{
+    display: flex;
+    justify-content: center;
+}
+td
+{
+    background-color: blanchedalmond;
+    border-radius: 4em;
+}
+.letra
+{
+  font-family: verdana;
+}
